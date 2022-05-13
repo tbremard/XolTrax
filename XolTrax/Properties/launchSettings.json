@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XoToken": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\video\\SoundEffect\\urls.txt \\\" 3 extractex.txt"
+    }
+  }
+}
